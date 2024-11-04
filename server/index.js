@@ -13,7 +13,7 @@ app.use(bodyParser.json());
 // Chatbot logic: Simple responses
 const responses = {
   "hello": "Hi! Welcome to my portfolio. You can ask me about my services, skills, projects, certificates, education, experience, and contact information.",
-  "projects": "You can view my projects in the Projects section of this website.",
+  "projects": "You can view my projects in the Projects section of this website. ",
   "Contact": "You can reach out to me via the Contact page for any inquiries.",
   "portfolio": "This portfolio showcases my skills in web development, React, and Node.js!",
 
